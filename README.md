@@ -6,10 +6,10 @@ Constructed a branch predictor simulator and used it to design branch predictors
 
   
 Successfully modelled four different branch predictors:
-  o Smith n-bit counter predictor
-  o Bimodal Branch Predictor
-  o GShare Branch Predictor
-  o Hybrid Branch Predictor
+  1. Smith n-bit counter predictor
+  2. Bimodal Branch Predictor
+  3. GShare Branch Predictor
+  4. Hybrid Branch Predictor
   
 Commands to run each branch predictor-
 

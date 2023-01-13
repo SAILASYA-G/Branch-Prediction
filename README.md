@@ -5,7 +5,7 @@ Author: Sailasya Gangavarapu
 Constructed a branch predictor simulator and used it to design branch predictors well suited to the SPECint95 benchmarks.
 
   
-Successfully modelled four different branch predictors:
+Successfully modeled four different branch predictors:
   1. Smith n-bit counter predictor
   2. Bimodal Branch Predictor
   3. GShare Branch Predictor
